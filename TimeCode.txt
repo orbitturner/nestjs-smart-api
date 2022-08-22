@@ -1,0 +1,18 @@
+
+⌚🔰 TIME CODE 🔰⌚
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[] - DEFINITIONS
+ 
+[] - INSTALLATION
+
+[] - FIRST SETUP
+
+[] - UTILISATION DE GIT
+
+[] - UTILISATION DE GITHUB
+
+[] - FROM GIT TO GITHUB
+
+[] - PROJECT VERSIONNING
+
+[] - LES BRANCHES
