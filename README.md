@@ -74,8 +74,8 @@ ___
 ## LET'S GO 🚀
 > [!INFO] # **STEP 1 : INSTALL NESTJS & CREATE PROJECT** 
 > ```bash
-$ npm i -g @nestjs/cli
-$ nest new project-name
+	$ npm i -g @nestjs/cli
+	$ nest new project-name
 
 
 > [!INFO] # **STEP 2 : DOTENV** 
